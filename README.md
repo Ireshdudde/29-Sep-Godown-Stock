@@ -326,7 +326,7 @@
           { name: "Rubber (kg)", qty: "1.5 KG" },
           { name: "Roshana Sticker", qty: "27846" }
         ],
-        balance2: [
+        balance: [
           { name: "Roshana Box (Nos)", qty: "3900 nos" },
           { name: "Laibaah Box", qty: "0 nos" },
           { name: "Haniya Box", qty: "0 nos" },
