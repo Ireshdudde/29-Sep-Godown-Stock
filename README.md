@@ -310,7 +310,7 @@
         ]
       },
       ramwadi: {
-        balance: [
+        Outward: [
           { name: "Roshana Box (Nos)", qty: "1989 nos" },
           { name: "Laibaah Box", qty: "0 nos" },
           { name: "Haniya Box", qty: "0 nos" },
